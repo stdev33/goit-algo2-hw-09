@@ -1,6 +1,6 @@
-# goit-algo2-hw-0
+# goit-algo2-hw-09
 
-Homework . Design And Analysis of Algorithms at GoIT Neoversity
+Homework 9. Design And Analysis of Algorithms at GoIT Neoversity
 
 
 
